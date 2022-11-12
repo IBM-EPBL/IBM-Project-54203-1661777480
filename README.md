@@ -23,13 +23,14 @@ Technical Architecture:
 
 ## Links 
 
-*  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assignments)
-*  [Guided Project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
+*  [Assignments 1]()
+*  [Assignment 2]()
+*  [Assignment 3]()
+*  [Assignment 4]()
 *  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning)
 *  [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 *  [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
 *  [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-*  [Project Planning](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 *  [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase)
 *  [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Development%20Phase/sprint%201)
 *  [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Development%20Phase/sprint%202)
