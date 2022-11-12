@@ -34,7 +34,7 @@ Technical Architecture:
 *  [Prior knowledge](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Prior%20Knowledge)
 *  [Model building](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Model%20Building)
 *  [Application buliding](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Application%20Building)
-*  [Understanding the data]()
+*  [Understanding the data](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Understanding%20The%20Data)
 *  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning)
 *  [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 *  [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
