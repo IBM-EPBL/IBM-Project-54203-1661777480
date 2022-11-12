@@ -25,7 +25,7 @@ Technical Architecture:
 
 *  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assignments)
 *  [Guided Project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
-*  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning)
+*  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning)
 *  [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 *  [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I)
 *  [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
